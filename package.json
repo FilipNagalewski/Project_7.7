@@ -1,31 +1,25 @@
 {
-  "name": "kodilla-git-project",
+  "name": "projekt_dodatkowy_7.7",
   "version": "1.0.0",
-  "description": "Example grunt project",
-  "main": "index.js",
+  "description": "company_website",
+  "main": "Gruntfile.js",
   "scripts": {
-    "test": "kodilla-tet"
+    "test": "kodilla-test"
   },
   "repository": {
     "type": "git",
     "url": "none"
   },
+  "keywords": [
+    "kodilla"
+  ],
   "author": "Filip Nagalewski",
   "license": "ISC",
   "devDependencies": {
-    "browser-sync": "^2.18.8",
     "grunt": "^1.0.1",
     "grunt-browser-sync": "^2.2.0",
     "grunt-contrib-imagemin": "^1.0.1",
     "grunt-contrib-watch": "^1.0.0",
     "grunt-sass": "^2.0.0"
-  },
-  "dependencies": {
-    "grunt": "^1.0.1",
-    "grunt-sass": "^2.0.0",
-    "uuid": "^3.0.1"
-  },
-  "keywords": [
-    "yhmmm"
-  ]
+  }
 }
