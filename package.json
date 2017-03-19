@@ -13,14 +13,17 @@
   "author": "Filip Nagalewski",
   "license": "ISC",
   "devDependencies": {
+    "browser-sync": "^2.18.8",
     "grunt": "^1.0.1",
     "grunt-contrib-imagemin": "^1.0.1",
     "grunt-contrib-watch": "^1.0.0",
-    "grunt-sass": "^2.0.0"
+    "grunt-sass": "^2.0.0",
+    "gulp": "^3.9.1"
   },
   "dependencies": {
     "grunt": "^1.0.1",
-    "grunt-sass": "^2.0.0"
+    "grunt-sass": "^2.0.0",
+    "uuid": "^3.0.1"
   },
   "keywords": [
     "yhmmm"
